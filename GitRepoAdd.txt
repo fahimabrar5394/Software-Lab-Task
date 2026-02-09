@@ -9,7 +9,7 @@ Step-3
 git init 
 Step-4
 • Add origin
-git remote add origin GithubRepositiryLink
+git GithubRepositiryLink
 Step-5
 • Add the File
 git add .
@@ -19,4 +19,8 @@ git commit -m "Any type of Message"
 Step-7 
 • Push the files to the repository
 git push -u origin master
+ 
+Addition Step
+Chnage Branches
+git branch -M 
 
