@@ -1,0 +1,22 @@
+Step-1
+• Go to the folder then Open the Git Bash
+Step-2
+• Configure User Info (only first time per computer)
+git config --global user.name "fahimabrar5394"
+git config --global user.email "fahimabrar5394@gmail.com"
+Step-3
+• Initialize Git
+git init 
+Step-4
+• Add origin
+git remote add origin GithubRepositiryLink
+Step-5
+• Add the File
+git add .
+Step-6
+• Commit the file that you've staged in your local repository
+git commit -m "Any type of Message"
+Step-7 
+• Push the files to the repository
+git push -u origin master
+
